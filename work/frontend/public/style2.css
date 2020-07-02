@@ -1,0 +1,12 @@
+.container{
+    border: 3px solid grey ;
+    border-top: 60px solid grey;
+}
+
+.slider{
+    border-bottom: 3px solid grey;
+}
+
+.col .m4{
+    border-left: 3px solid grey;
+}
