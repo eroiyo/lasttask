@@ -23,10 +23,6 @@ This project is a webstore that feature products from a database, the products h
 If you want a copy of this file go to the github repository and download it from there
 
 [`git clone https://github.com/eroiyo/lasttask`](https://github.com/eroiyo/lasttask)
-## Learning objectives
-
-- Learn about graphs
-- Using Graphs in a abstract way
 
 =======
 
